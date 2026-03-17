@@ -19,3 +19,18 @@ profile_picture:
   <li>End-to-end autonomous driving</li>
   <li>World models for autonomous driving</li>
 </ul>
+
+<h2>Recent Academic Results</h2>
+
+### Selected publications
+
+1. **AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models** (2026, CVPR)  
+   Links: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
+
+2. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)  
+   Links: [[Paper](https://doi.org/10.1007/978-3-031-73021-4_2)] [[arXiv](https://doi.org/10.48550/arXiv.2404.12867)]
+
+### Preprint
+1. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation**
+   Links: [[Paper](https://doi.org/10.48550/arXiv.2512.00723)]
+
