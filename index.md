@@ -28,9 +28,13 @@ profile_picture:
    Links: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
 
 2. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)  
-   Links: [[Paper](https://doi.org/10.1007/978-3-031-73021-4_2)] [[arXiv](https://doi.org/10.48550/arXiv.2404.12867)]
+   Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
 
 ### Preprint
-1. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation**
-   Links: [[Paper](https://doi.org/10.48550/arXiv.2512.00723)]
+
+1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** 
+   Links: [[Paper](https://arxiv.org/abs/2603.14948)] [[GitHub](https://github.com/TabGuigui/WorldDrive)]
+
+2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** 
+   Links: [[Paper](https://arxiv.org/abs/2512.00723)] [[GitHub](https://github.com/TabGuigui/TrajDiff)]
 
