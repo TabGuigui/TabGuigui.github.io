@@ -25,20 +25,20 @@ profile_picture:
 ### Selected publications
 
 1. **AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models** (2026, CVPR)\
-   Authors: Tianyi Yan, Tao Tang, **Xingtai Gui**, et al.\
+   Authors: Tianyi Yan, Tao Tang, <b>Xingtai Gui</b>, et al.\
    Link: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
 
 2. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
-   Authors: **Xingtai Gui**, Tengteng Huang, Haonan Shao, et al.\
+   Authors: <b>Xingtai Gui</b>, Tengteng Huang, Haonan Shao, et al.\
    Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
 
 ### Preprint
 
 1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**\
-   Authors: **Xingtai Gui**, Meijie Zhang, Tianyi Yan, et al.\
+   Authors: <b>Xingtai Gui</b>, Meijie Zhang, Tianyi Yan, et al.\
    Links: [[Paper](https://arxiv.org/abs/2603.14948)] [[GitHub](https://github.com/TabGuigui/WorldDrive)]
 
 2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation**\
-   Authors: **Xingtai Gui**, Jianbo Zhao, Wencheng Han, et al.\
+   Authors: <b>Xingtai Gui</b>, Jianbo Zhao, Wencheng Han, et al.\
    Links: [[Paper](https://arxiv.org/abs/2512.00723)] [[GitHub](https://github.com/TabGuigui/TrajDiff)]
 
