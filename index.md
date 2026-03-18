@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/myself.jpg
   alt: website picture
 ---
 
@@ -20,21 +20,25 @@ profile_picture:
   <li>World models for autonomous driving</li>
 </ul>
 
-<h2>Recent Academic Results</h2>
+<h2>Recent Publications</h2>
 
 ### Selected publications
 
-1. **AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models** (2026, CVPR)  
-   Links: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
+1. **AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models** (2026, CVPR)\
+   Authors: Tianyi Yan, Tao Tang, **Xingtai Gui**, et al.\
+   Link: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
 
-2. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)  
+2. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\ 
+   Authors: **Xingtai Gui**, Tengteng Huang, Haonan Shao, et al.\
    Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
 
 ### Preprint
 
-1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** 
+1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**\
+   Authors: **Xingtai Gui**, Meijie Zhang, Tianyi Yan, et al.\
    Links: [[Paper](https://arxiv.org/abs/2603.14948)] [[GitHub](https://github.com/TabGuigui/WorldDrive)]
 
-2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** 
+2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation**\
+   Authors: **Xingtai Gui**, Jianbo Zhao, Wencheng Han, et al.\
    Links: [[Paper](https://arxiv.org/abs/2512.00723)] [[GitHub](https://github.com/TabGuigui/TrajDiff)]
 
