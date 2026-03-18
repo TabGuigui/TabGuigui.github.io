@@ -28,7 +28,7 @@ profile_picture:
    Authors: Tianyi Yan, Tao Tang, **Xingtai Gui**, et al.\
    Link: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
 
-2. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\ 
+2. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
    Authors: **Xingtai Gui**, Tengteng Huang, Haonan Shao, et al.\
    Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
 
