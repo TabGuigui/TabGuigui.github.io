@@ -10,7 +10,7 @@ profile_picture:
 
 <p>
   I am a first-year Ph.D. student at the <strong>State Key Laboratory of Internet of Things for Smart City</strong>,
-  <strong>University of Macau</strong>, advised by <strong>Prof. Jianbing Shen</strong>. 
+  <strong>University of Macau</strong>, advised by <strong>Prof. Jianbing Shen</strong>. <br>
   
   I received both my B.Eng. and M.Eng. degrees from the University of Electronic Science and Technology of China (UESTC).
   Before starting my Ph.D., I worked as a <strong>Researcher at MEGVII</strong> from 2023 to 2025.
