@@ -10,32 +10,21 @@ profile_picture:
 
 <p>
   I am a first-year Ph.D. student at the <strong>State Key Laboratory of Internet of Things for Smart City</strong>,
-  <strong>University of Macau</strong>, advised by <strong>Prof. Jianbing Shen</strong>. I received both my B.Eng. and M.Eng. degrees from the University of Electronic Science and Technology of China (UESTC).
+  <strong>University of Macau</strong>, advised by <strong>Prof. Jianbing Shen</strong>. 
+  
+  I received both my B.Eng. and M.Eng. degrees from the University of Electronic Science and Technology of China (UESTC).
   Before starting my Ph.D., I worked as a <strong>Researcher at MEGVII</strong> from 2023 to 2025.
 </p>
 
 <h2>Research Interests</h2>
 <ul>
   <li>End-to-end autonomous driving</li>
-  <li>World models for autonomous driving</li>
+  <li>World model for physical agent</li>
 </ul>
 
 <h2>Recent Publications</h2>
 
-### Selected publications
-
-1. **SurfelOcc: Self-supervised Occupancy Prediction via 2D Surfel Splatting** (2026, CVPR)\
-   Authors: Jikai Wang, <b>Xingtai Gui</b>, et al.\
-   Link: [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Wang_SurfelOcc_Self-supervised_Occupancy_Prediction_via_2D_Surfel_Splatting_CVPRF_2026_paper.pdf)]
-2. **AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models** (2026, CVPR)\
-   Authors: Tianyi Yan, Tao Tang, <b>Xingtai Gui</b>, et al.\
-   Link: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
-
-3. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
-   Authors: <b>Xingtai Gui</b>, Tengteng Huang, Haonan Shao, et al.\
-   Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
-
-### Preprint
+### First author pulications
 
 1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**\
    Authors: <b>Xingtai Gui</b>, Meijie Zhang, Tianyi Yan, et al.\
@@ -44,4 +33,21 @@ profile_picture:
 2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation**\
    Authors: <b>Xingtai Gui</b>, Jianbo Zhao, Wencheng Han, et al.\
    Links: [[Paper](https://arxiv.org/abs/2512.00723)] [[GitHub](https://github.com/TabGuigui/TrajDiff)]
+
+3. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
+   Authors: <b>Xingtai Gui</b>, Tengteng Huang, Haonan Shao, et al.\
+   Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
+   
+### Other publications
+
+1. **SurfelOcc: Self-supervised Occupancy Prediction via 2D Surfel Splatting** (2026, CVPR Findings)\
+   Authors: Jikai Wang, <b>Xingtai Gui</b>, et al.\
+   Link: [[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Wang_SurfelOcc_Self-supervised_Occupancy_Prediction_via_2D_Surfel_Splatting_CVPRF_2026_paper.pdf)]
+2. **AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models** (2026, CVPR Findings)\
+   Authors: Tianyi Yan, Tao Tang, <b>Xingtai Gui</b>, et al.\
+   Link: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
+
+
+
+
 
