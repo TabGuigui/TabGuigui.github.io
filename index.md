@@ -9,10 +9,10 @@ profile_picture:
 <h1>Xingtai Gui</h1>
 
 <p>
-  I am a first-year Ph.D. student at the <strong>State Key Laboratory of Internet of Things for Smart City</strong>,
+  I am a first-year Ph.D. student at the State Key Laboratory of Internet of Things for Smart City,
   <strong>University of Macau</strong>, advised by <strong>Prof. Jianbing Shen</strong>. <br>
   
-  I received both my B.Eng. and M.Eng. degrees from the University of Electronic Science and Technology of China (UESTC).
+  I received both my B.Eng. (2016-2020) and M.Eng. (2020-2023) degrees from the University of Electronic Science and Technology of China (UESTC).
   Before starting my Ph.D., I worked as a <strong>Researcher at MEGVII</strong> from 2023 to 2025.
 </p>
 
@@ -24,13 +24,13 @@ profile_picture:
 
 <h2>Recent Publications</h2>
 
-### First author pulications
+### First author publications
 
-1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation**\
+1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** (Arxiv)\
    Authors: <b>Xingtai Gui</b>, Meijie Zhang, Tianyi Yan, et al.\
    Links: [[Paper](https://arxiv.org/abs/2603.14948)] [[GitHub](https://github.com/TabGuigui/WorldDrive)]
 
-2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation**\
+2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** (Arxiv)\
    Authors: <b>Xingtai Gui</b>, Jianbo Zhao, Wencheng Han, et al.\
    Links: [[Paper](https://arxiv.org/abs/2512.00723)] [[GitHub](https://github.com/TabGuigui/TrajDiff)]
 
