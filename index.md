@@ -9,8 +9,8 @@ profile_picture:
 <h1>Xingtai Gui</h1>
 
 <p>
-  I am a first-year Ph.D. student at the State Key Laboratory of Internet of Things for Smart City,
-  <strong>University of Macau</strong>, advised by <strong>Prof. Jianbing Shen</strong>. <br>
+  I am a second-year Ph.D. student at the State Key Laboratory of Internet of Things for Smart City,
+  <strong>University of Macau</strong>, supervised by <strong>Prof. Jianbing Shen</strong>. <br>
   
   I received both my B.Eng. (2016-2020) and M.Eng. (2020-2023) degrees from the University of Electronic Science and Technology of China (UESTC).
   Before starting my Ph.D., I worked as a <strong>Researcher at MEGVII</strong> from 2023 to 2025.
@@ -47,7 +47,8 @@ profile_picture:
    Authors: Tianyi Yan, Tao Tang, <b>Xingtai Gui</b>, et al.\
    Link: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
 
+<h2>Experiences 💼</h2>
 
-
-
+- **[2026 – Present]** Research Intern, **Zhuoyu Technology** (领航者计划)
+- **[2025 – 2026]** Research Intern, **AFARI** (Autonomous Driving)
 
