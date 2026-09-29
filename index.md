@@ -22,19 +22,26 @@ profile_picture:
   <li>World model for physical agent</li>
 </ul>
 
+<h2>News</h2>
+
+- **[2026.09]** Three papers were accepted to NeurIPS 2026, including **WorldDrive** and **GeoCoTDrive**.
+
 <h2>Recent Publications</h2>
 
 ### First author publications
 
-1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** (Arxiv)\
+1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** (2026, NeurIPS)\
    Authors: <b>Xingtai Gui</b>, Meijie Zhang, Tianyi Yan, et al.\
    Links: [[Paper](https://arxiv.org/abs/2603.14948)] [[GitHub](https://github.com/TabGuigui/WorldDrive)]
 
-2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** (Arxiv)\
+2. **Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving** (2026, NeurIPS)\
+   Authors: <b>Xingtai Gui</b>, Yucheng Zhou, Dongqian Guo, et al.
+
+3. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** (Arxiv)\
    Authors: <b>Xingtai Gui</b>, Jianbo Zhao, Wencheng Han, et al.\
    Links: [[Paper](https://arxiv.org/abs/2512.00723)] [[GitHub](https://github.com/TabGuigui/TrajDiff)]
 
-3. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
+4. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
    Authors: <b>Xingtai Gui</b>, Tengteng Huang, Haonan Shao, et al.\
    Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
    
@@ -51,4 +58,3 @@ profile_picture:
 
 - **[2026 – Present]** Research Intern, **Zhuoyu Technology** (领航者计划)
 - **[2025 – 2026]** Research Intern, **AFARI** (Autonomous Driving)
-
