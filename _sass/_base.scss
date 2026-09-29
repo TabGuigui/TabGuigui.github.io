@@ -107,6 +107,14 @@ h4 {
   font-size: 12px;
 }
 
+// The body uses a light (300) font weight, so make semantic emphasis explicit.
+// This covers both Markdown's <strong> output and the <b> author names used on
+// the publications list.
+strong,
+b {
+  font-weight: 700;
+}
+
 
 /**
  * Links
