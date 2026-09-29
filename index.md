@@ -9,8 +9,8 @@ profile_picture:
 <h1>Xingtai Gui</h1>
 
 <p>
-  I am a first-year Ph.D. student at the State Key Laboratory of Internet of Things for Smart City,
-  <strong>University of Macau</strong>, advised by <strong>Prof. Jianbing Shen</strong>. <br>
+  I am a second-year Ph.D. student at the State Key Laboratory of Internet of Things for Smart City,
+  <strong>University of Macau</strong>, supervised by <strong>Prof. Jianbing Shen</strong>. <br>
   
   I received both my B.Eng. (2016-2020) and M.Eng. (2020-2023) degrees from the University of Electronic Science and Technology of China (UESTC).
   Before starting my Ph.D., I worked as a <strong>Researcher at MEGVII</strong> from 2023 to 2025.
@@ -22,19 +22,26 @@ profile_picture:
   <li>World model for physical agent</li>
 </ul>
 
+<h2>News</h2>
+
+- **[2026.09]** Three papers were accepted to NeurIPS 2026, including **WorldDrive** and **GeoCoTDrive**.
+
 <h2>Recent Publications</h2>
 
 ### First author publications
 
-1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** (Arxiv)\
+1. **Bridging Scene Generation and Planning: Driving with World Model via Unifying Vision and Motion Representation** (2026, NeurIPS)\
    Authors: <b>Xingtai Gui</b>, Meijie Zhang, Tianyi Yan, et al.\
    Links: [[Paper](https://arxiv.org/abs/2603.14948)] [[GitHub](https://github.com/TabGuigui/WorldDrive)]
 
-2. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** (Arxiv)\
+2. **Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving** (2026, NeurIPS)\
+   Authors: <b>Xingtai Gui</b>, Yucheng Zhou, Dongqian Guo, et al.
+
+3. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** (Arxiv)\
    Authors: <b>Xingtai Gui</b>, Jianbo Zhao, Wencheng Han, et al.\
    Links: [[Paper](https://arxiv.org/abs/2512.00723)] [[GitHub](https://github.com/TabGuigui/TrajDiff)]
 
-3. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
+4. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
    Authors: <b>Xingtai Gui</b>, Tengteng Huang, Haonan Shao, et al.\
    Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
    
@@ -47,7 +54,7 @@ profile_picture:
    Authors: Tianyi Yan, Tao Tang, <b>Xingtai Gui</b>, et al.\
    Link: [[Paper](https://doi.org/10.48550/arXiv.2511.20325)]
 
+<h2>Experiences 💼</h2>
 
-
-
-
+- **[2026 – Present]** Research Intern, **Zhuoyu Technology** (领航者计划)
+- **[2025 – 2026]** Research Intern, **AFARI** (Autonomous Driving)
