@@ -35,7 +35,7 @@ profile_picture:
    Links: [[Paper](https://arxiv.org/abs/2603.14948)] [[GitHub](https://github.com/TabGuigui/WorldDrive)]
 
 2. **Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving** (2026, NeurIPS)\
-   Authors: <b>Xingtai Gui</b>, Yucheng Zhou, Dongqian Guo, et al.
+   Authors: <b>Xingtai Gui</b>, Yucheng Zhou, Dongqian Guo, et al.\
    Links: [[Paper](https://arxiv.org/abs/2610.10390)] [[GitHub](https://github.com/TabGuigui/GeoCoTDrive)]
 
 4. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** (Arxiv)\
