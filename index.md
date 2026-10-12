@@ -36,12 +36,13 @@ profile_picture:
 
 2. **Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving** (2026, NeurIPS)\
    Authors: <b>Xingtai Gui</b>, Yucheng Zhou, Dongqian Guo, et al.
+   Links: [[Paper](https://arxiv.org/abs/2610.10390)] [[GitHub](https://github.com/TabGuigui/GeoCoTDrive)]
 
-3. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** (Arxiv)\
+4. **TrajDiff: End-to-end Autonomous Driving without Perception Annotation** (Arxiv)\
    Authors: <b>Xingtai Gui</b>, Jianbo Zhao, Wencheng Han, et al.\
    Links: [[Paper](https://arxiv.org/abs/2512.00723)] [[GitHub](https://github.com/TabGuigui/TrajDiff)]
 
-4. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
+5. **FipTR: A Simple yet Effective Transformer Framework for Future Instance Prediction in Autonomous Driving** (2024, ECCV)\
    Authors: <b>Xingtai Gui</b>, Tengteng Huang, Haonan Shao, et al.\
    Links: [[Paper](https://arxiv.org/abs/2404.12867)] [[GitHub](https://github.com/TabGuigui/FipTR)]
    
